@@ -1,0 +1,23 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(255, 255, 255);
+  color: white;
+
+}
+button{
+  border: none;
+  background-color: grey;
+  -webkit-tap-highlight-color:  rgba(255, 255, 255, 0); 
+  cursor: pointer;
+  color:red;
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
